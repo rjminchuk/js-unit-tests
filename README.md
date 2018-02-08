@@ -10,3 +10,4 @@ A barebones, cross OS, approach to unit testing JS.
 - remove implicit dependencides by injecting the date maker utility into test suite
 - write up notes in blog post about what each file actually does. 
 - shorten unit test scripts because... we get the idea already.
+- actually include unit testing framework code in this repo.
