@@ -1,10 +1,10 @@
 # js-unit-tests
-A barebones, vanilla, ES5, cross operating system, command line approach to unit testing JavaScript. 
+A barebones, ES5, cross operating system, command line approach to unit testing JavaScript. 
 
 [Blog Post](https://github.com/rjminchuk/Programming-Notes/blob/develop/md/jsTests.md) | Cross opperating system unit testing for JS
 
 # todo
-- replace wacky extend js with `underscorejs`
+- refactor how I extend objects....
 - refactor `MyUtility.js`. Instantiate the class in the test, then execute the function.
 - replace instances of `function(d) { ...` with a clearer name. ie: `function(dependencies) { ...`
 - remove implicit dependencides by injecting the date maker utility into test suite
